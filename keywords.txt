@@ -1,0 +1,3 @@
+TestLib_1	KEYWORD1
+Blink_2		KEYWORD2
+PrintText	KEYWORD2
